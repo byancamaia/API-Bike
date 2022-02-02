@@ -35,7 +35,6 @@ O sistema back-end permitirá que o usuário consiga alugar uma bicicleta com fa
   - Starter-Test
   - MongoDB
   - Lombok
-  - JPA
   - ModelMapper
   - JUnit
 
